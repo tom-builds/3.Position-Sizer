@@ -8,11 +8,11 @@ function App() {
 
   return (
 
-  <div className="App">
+    <div className="App">
 
-    <Position/>
+      <Position/>
 
-  </div>
+    </div>
 
   )
 }
